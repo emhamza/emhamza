@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on Web development projects based on Ruby.
 💬 Ask me about Wordpress Web Develompment, Content Writing, SEO optimization.
 📫 How to reach me: imumairhamza@gmail.com
-⚡ Fun fact: I love cooking Pakistani traditional dishes and travelling all around Pakistan on a bike :bike: is my utmost to-do-list desire. I will accompalish that any time sooner I get the chance. Spending some nights in the foreast, :link: alone; listening woodland's silace; suffering fear of talking tress, is another desire that keeps me awake from my sleep.:sunrise: :surfer::horse_racing::money_with_wings::honeybee:
+⚡ Fun fact: I love cooking Pakistani traditional dishes and travelling all around Pakistan on a bike :bike: is my utmost to-do-list desire. I will accompalish that any time sooner I get the chance. Spending some nights in the foreast, :link: alone; listening woodland's silace; suffering fear of talking trees, is another desire that keeps me awake from my sleep.:sunrise: :surfer::horse_racing::money_with_wings::honeybee:
 
 <!--
 **emhamza/emhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
