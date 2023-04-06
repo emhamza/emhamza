@@ -33,7 +33,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza&layout=compact)](https://github.com/emhamza/My-portfolio-site)
 
-<h2>💻Feature Repositories</h2>
+<h2>💻Feature Projects</h2>
 
 <a href="https://github.com/emhamza/My-portfolio-site">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=My-portfolio-site" />
