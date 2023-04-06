@@ -29,24 +29,22 @@
 
 <h2>⚡ GitHub Stats</h2>
 
-[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=emhamza&show_icons=true&theme=cobalt)](https://github.com/emhamza/github-readme-stats)
+<div>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/emhamza/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emhamza&show_icons=true&theme=cobalt" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+  <a href="https://github.com/emhamza/My-portfolio-site">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza&layout=compact)](https://github.com/emhamza/My-portfolio-site)
-
-<h2>💻Feature Projects</h2>
-
-<a href="https://github.com/emhamza/My-portfolio-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=My-portfolio-site" />
-</a>
-
-<a href="https://github.com/emhamza/Capstone-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=Capstone-1" />
-</a>
-
-<a href="https://github.com/emhamza/My-todo-List-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=My-todo-List-website" />
-</a>
-
-<a href="https://github.com/emhamza/Books-app-ES6">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=Books-app-ES6" />
-</a>
