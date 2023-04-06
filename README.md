@@ -1,12 +1,52 @@
 <h2>Welcome<img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img src ="https://user-images.githubusercontent.com/122353030/229371401-4adc2718-7009-4873-99ee-5d0246baad12.jpg">
+
+![Capture](https://user-images.githubusercontent.com/122353030/230446660-49fddd2a-b17b-4a72-9ed6-42a8f8c7ebf2.JPG)
+
+### Crafting responsive and immersive websites/apps with a mobile-first approach - I thrive on adventure and embrace new challenges with open arms!
 
 
 
-<li>🌱 I’m currently learning JavaScript, Ruby, HTML, CSS.</li>
-<li>🔭 I’m a student at Microverse.</li>
-<li>🤔 I'm working on Microverse projects.</li>
-<li>👯 I’m looking to collaborate on Web development projects based on Ruby.</li>
-<li>💬 Ask me about Wordpress Web Develompment, Content Writing, SEO optimization.</li>
-<li>📫 How to reach me: imumairhamza@gmail.com</li>
-<li>⚡ Fun fact: I love cooking Pakistani traditional dishes, and travelling all around Pakistan on a bike :bike: is my utmost to-d0-list desire. I will accompalish that        any time sooner I get the chance. Spending some nights in the foreast, :link: alone; listening woodland's silace; suffering fear of talking trees, is another            desire that keeps me awake from my sleep.:sunrise: :surfer::horse_racing::money_with_wings::honeybee</li>
+<li> ♒ I'm currently learning HTML5, CSS3, and JavaScript as a student at Microverse. At Microverse, I'm working on week-to-week based projects that help me build my skills in web development and stay up-to-date with the latest industry trends.</li>
+
+<li> 🌳 I'm passionate about collaborating on web development projects that involve HTML, CSS, and JavaScript, and I'm always looking for new opportunities to learn and grow as a developer. If you have a project in mind, I'd love to hear about it!</li>
+
+<li> 💐 If you have any questions about front-end development, Bootstrap, DOM, Webpack, Linters, or Unit Testing, feel free to ask me. I'm always happy to share my knowledge and help others.</li>
+
+<li> 📧 You can reach me at imumairhamza@gmail.com to discuss any potential collaboration opportunities or to simply connect with me.</li>
+
+<li> 🚦 On a personal note, I have a love for cooking Pakistani traditional dishes and traveling all around Pakistan on a bike. Exploring nature, camping, and experiencing the beauty of the great outdoors are some of my favorite activities outside of work.</li>
+<li> 🌼 Thank you for taking the time to read my introduction, and I look forward to connecting with you!</li>
+
+
+<h2>👉Tech & Tool Prefrences</h2>
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+
+<h2>⚡ GitHub Stats</h2>
+
+[![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=emhamza&show_icons=true&theme=cobalt)](https://github.com/emhamza/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza&layout=compact)](https://github.com/emhamza/My-portfolio-site)
+
+<h2>💻Feature Repositories</h2>
+
+<a href="https://github.com/emhamza/My-portfolio-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=My-portfolio-site" />
+</a>
+
+<a href="https://github.com/emhamza/Capstone-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=Capstone-1" />
+</a>
+
+<a href="https://github.com/emhamza/My-todo-List-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=My-todo-List-website" />
+</a>
+
+<a href="https://github.com/emhamza/Books-app-ES6">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emhamza&repo=Books-app-ES6" />
+</a>
