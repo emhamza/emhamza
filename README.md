@@ -6,7 +6,7 @@
 
 
 
-<li> ♒ I'm currently learning HTML5, CSS3, and JavaScript as a student at Microverse. At Microverse, I'm working on week-to-week based projects that help me build my skills in web development and stay up-to-date with the latest industry trends.</li>
+<li> ♒ I'm excited to share my journey as a passionate learner and now a Professional Full Stack Developer. Currently, I'm honing my skills at Microverse, where I've been diving deep into the world of web development with a focus on HTML5, CSS3, JavaScript, React, Redux, Ruby, PostgreSQL, and Ruby on Rails. Through week-to-week projects, I've gained hands-on experience and kept pace with the latest industry trends.</li>
 
 <li> 🌳 I'm passionate about collaborating on web development projects that involve HTML, CSS, and JavaScript, and I'm always looking for new opportunities to learn and grow as a developer. If you have a project in mind, I'd love to hear about it!</li>
 
