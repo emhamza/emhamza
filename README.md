@@ -5,18 +5,8 @@
 
 ### Crafting responsive and immersive websites/apps with a mobile-first approach - I thrive on adventure and embrace new challenges with open arms!
 
-
-
-<li> ♒ I'm excited to share my journey as a passionate learner and now a Professional Full Stack Developer. Currently, I'm honing my skills at Microverse, where I've been diving deep into the world of web development with a focus on HTML5, CSS3, JavaScript, React, Redux, Ruby, PostgreSQL, and Ruby on Rails. Through week-to-week projects, I've gained hands-on experience and kept pace with the latest industry trends.</li>
-
-<li> 🌳 I'm passionate about collaborating on web development projects that involve JavaScript, React, Ruby, Rubu on Rails, Wordpress, PostgresSQL and AI based development and I'm always looking for new opportunities to learn and grow as a developer. If you have a project in mind, I'd love to hear about it!</li>
-
-<li> 💐 If you have any questions about front-end development, Bootstrap, DOM, Webpack, Linters, or Unit Testing, feel free to ask me. I'm always happy to share my knowledge and help others.</li>
-
-<li> 📧 You can reach me at imumairhamza@gmail.com to discuss any potential collaboration opportunities or to simply connect with me.</li>
-
-<li> 🚦 On a personal note, I have a love for cooking Pakistani traditional dishes and traveling all around Pakistan on a bike. Exploring nature, camping, and experiencing the beauty of the great outdoors are some of my favorite activities outside of work.</li>
-<li> 🌼 Thank you for taking the time to read my introduction, and I look forward to connecting with you!</li>
+<li>👋 Hello there! I'm a Full-stack developer.</li>
+<li>💡 I can help you build a product, feature, or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hesitate to contact me. 🚀</li>
 
 
 <h2>👉Tech & Tool Prefrences</h2>
@@ -37,3 +27,16 @@
   </a>
 </div>
 
+<h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2>
+
+<p align="center">
+  <a target="_blank"
+    href="https://www.linkedin.com/in/emhamza"><img
+    src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
+  <a target="_blank"
+    href="mailto:imumairhamza@gmail.com"><img
+    src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+  <a target="_blank"
+    href="https://twitter.com/uhamzaz"><img
+    src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+</p>
