@@ -23,7 +23,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/emhamza/My-portfolio-site">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza"/>
   </a>
 </div>
 
