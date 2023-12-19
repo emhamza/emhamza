@@ -5,7 +5,7 @@
 
 ### Crafting responsive and immersive websites/apps with a mobile-first approach - I thrive on adventure and embrace new challenges with open arms!
 
-<li>👋 Hello there! I'm a Full-Stack developer.</li>
+<li>👋 Hello there! I'm a Full-Stack Developer.</li>
 <li>💡 I can help you build a product, feature, or website. Look through some of my work and experience! If you like what you see and have a project you need coded, don’t hesitate to contact me! 🚀</li>
 
 
