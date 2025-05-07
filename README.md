@@ -46,4 +46,3 @@
     href="https://twitter.com/uhamzaz"><img
     src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
-Can you help me to update my profile and make it more professional on every aspects?
