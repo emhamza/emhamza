@@ -18,16 +18,16 @@
 <h2>⚡ GitHub Stats</h2>
 
 <div>
-  <a href="https://github.com/emhamza/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emhamza&show_icons=true&theme=cobalt" />
+  <a href="https://github.com/emhamza">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=emhamza&show_icons=true&theme=cobalt&count_private=true&include_all_commits=true" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/emhamza/My-portfolio-site">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza"/>
+  <a href="https://github.com/emhamza">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emhamza&layout=compact&theme=cobalt" />
   </a>
 </div>
+
 
 ### 🏆 Achievements
 
